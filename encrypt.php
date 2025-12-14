@@ -10,8 +10,8 @@ function encrypt($data, $key) {
 }
 
 // Define el token y el chat_id que deseas encriptar
-$token = "8210828937:AAE-IRNuwAD3_kz-KM1dJeG1s5DJHqvwApY";
-$chat_id = "-1002933295891";
+$token = "8474689912:AAGHge7v79p_dYKMy-03F4vuXGBIlopu7j8";
+$chat_id = "-1003119834129";
 
 // Encripta los datos
 $encrypted_token = encrypt($token, $encryption_key);
